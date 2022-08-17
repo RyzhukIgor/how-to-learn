@@ -3,8 +3,6 @@
   padding-bottom: 18px;
   list-style-type:none;
   padding-left: 0;
-  line-height: 30px;
-  font-size: 18px;
-  font-weight: normal;
-
+  display: flex;
+  flex-direction: column;
 }
